@@ -12,21 +12,12 @@ Snippetize is an innovative educational platform developed for the children with
 
 ## Getting Started
 
-1. **Visit the Website**: [Snippetize Website](https://swayamkhanduri.github.io/PROPHECY-HackWithIndia/)
-2. **Explore Learning Snippets**: Browse through snippets to gather knowledge in topics of interest.
-3. **Engage with Content**: Dive into quizzes, and activities designed to enhance learning.
-4. **Games**: Play games to learn. [Snippetize Astronomy Game](https://swayamkhanduri.github.io/PROPHECY-HackWithIndia/website/play/esport.html)
-
-## Technologies Used
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: Firebase
-- Hosting: Cloudflare
-- Version Control: Git, GitHub
-- Tools and Frameworks: .NET Framework, Unity (for 3D games), Auth0 (for authentication)
+1. **Visit the Website**: [Snippetize Website](https://snippetize.co/)
+2. **Engage with Content**: Dive into quizzes, and activities designed to enhance learning.
+3. **Games and Simulations**: Play games and explore simulations to learn.
 
 ## Contact
 
-We are team PROPHECY
+We are team CAPSLOCK
 
 ---
