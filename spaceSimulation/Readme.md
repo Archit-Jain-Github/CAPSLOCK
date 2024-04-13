@@ -1,15 +1,17 @@
 # Galactic - Explore the Solar System in 3D!
 
-Galactic is an educational game developed using the Unity game engine, offering a stunning 3D representation of our solar system. Designed with ADHD kids in mind, Galactic provides an immersive and interactive way to learn about the planets and their characteristics.
+Galactic is an educational simulation developed using the Unity game engine, offering a stunning 3D representation of our solar system. Designed with ADHD kids in mind, Galactic provides an immersive and interactive way to learn about the planets and their characteristics.
 
 ## Features
+
 - Interactive 3D Environment: Explore the solar system and learn about each planet by interacting with their 3D models.
 - Educational Information: Detailed descriptions and fun facts about each planet to enhance learning in the form of snippets.
 - WebGL Compatibility: Playable on web browsers for easy access.
 
 ## How to Play
-1. **Open the Browser:** Go to the "Play" section of the website and follow the on-page instructions.
-2. **Launch the Game:** Open the game and start exploring the solar system.
+
+1. **Open the Browser:** Go to the "Simulate" section of the website and follow the on-page instructions.
+2. **Launch the Game:** Open the simulation and start exploring the solar system.
 3. **Interact with Planets:** Use the controls to navigate and interact with the planets and learn about the solar system.
 
 ## Running the Game Locally
